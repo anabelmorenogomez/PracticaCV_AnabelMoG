@@ -8,7 +8,14 @@ namespace PracticaCV_AnabelMG
 {
     internal class Clase_AnabelMG1
     {
+        // CONSTANSTES 
 
+        // VARIABLES 
 
+        // ENTRADA
+
+        // PROCESO 
+
+        // SALIDA
     }
 }
